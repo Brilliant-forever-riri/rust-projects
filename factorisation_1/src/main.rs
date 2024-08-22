@@ -1,5 +1,5 @@
 fn main() {
-    let number = 2748263483092;
+    let number = 27482637654483092;
     match factorize(number) {
         Some(factors) => {
             println!("{} is a composite number with factors: \n {:?}", number, factors);
